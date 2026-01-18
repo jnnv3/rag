@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-openai
+chromadb
+pypdf
+sentence-transformers
+torch
+numpy
+openai
+tiktoken
+pdfplumber
+python-dotenv
